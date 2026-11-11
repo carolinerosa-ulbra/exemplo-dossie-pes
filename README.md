@@ -30,8 +30,9 @@ Estacionamentos de shoppings, prédios comerciais e universidades controlam entr
 
 ## Protótipo
 
-Aplicação de console em Java, no repositório [aula-poo](https://github.com/CarolCPR/aula-poo).
-**Fluxo principal demonstrado:** entrada do veículo, saída e cálculo do valor (HU02, RF02, casos de teste CT01 a CT06).
+- **Protótipo de interface (Figma, média fidelidade, navegável):** [link do Figma](https://www.figma.com/proto/Oi5kRjTyDuJz6ndP2hBiA3/Estacionamento-Prot%C3%B3tipo---PES?node-id=2-2&t=NsZejUKL6fovZhny-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
+  Fluxo principal demonstrado: registrar saída, resumo da cobrança e comprovante (HU02, RF02, CT03, CT06 e CT09).
+- **Código (aplicação de console em Java):** [aula-poo](https://github.com/CarolCPR/aula-poo)
 
 ## Fio condutor deste exemplo
 
